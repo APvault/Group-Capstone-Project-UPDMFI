@@ -1,3 +1,17 @@
+CONTRIBUTORS:
+
+Ivan Richmond Jumawan
+
+Ammiel Majan
+
+Isaiah Lex Javier
+
+Adan Hernandez
+
+Owen Mallapre
+
+Edson Broderick Lim
+
 This is a Python notebook for a Data Science Capstone Project focused on analyzing credit card customer behavior. 
 It aims to make it easier for Banks to accept/reject customers based on their data by segmenting customers into 4 
 groups, namely, Denied, For Review 1, For Review 2, and Approved. This serves as out Capstone Project from the 5-day 
@@ -64,7 +78,6 @@ and an interactive prediction tool. Below is a detailed outline, with a strong f
        Accuracy: ~0.93 .\
        Confusion Matrix: Heatmap showing minimal misclassifications above 0.9 precision,recall, and f1-score across all 4 classes.\
        Classification Report: Precision/Recall/F1 >0.90 across clusters.\
-   
    
 
 
